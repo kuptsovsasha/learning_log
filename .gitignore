@@ -1,2 +1,4 @@
 # Project exclude paths
 /learn_venv/
+__pycashe__/
+*.sqlite3
